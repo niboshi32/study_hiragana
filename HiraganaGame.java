@@ -170,7 +170,6 @@ public class HiraganaGame {
         }else {
              System.out.println("げーむを はじめられるよ");
         }
-
         System.out.println("れべる" + level + "から はじまるよ");
         do {
 
