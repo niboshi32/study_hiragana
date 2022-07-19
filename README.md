@@ -4,3 +4,4 @@
 毎回新しいインスタンスを生成しなければいけないようでした。
 URLを書いておきますので見てみてください。
 どういった改造がいいか私のほうでも考えてみます。
+https://atmarkit.itmedia.co.jp/bbs/phpBB/viewtopic.php?topic=24694&forum=12
